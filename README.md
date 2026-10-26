@@ -12,6 +12,5 @@ Theme Customization: Switch between System, Light, and Dark modes, with support 
 
 
 Screenshots
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/65bbbdc7-5c6f-4d83-964b-036337248d5b" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/18332f0a-bf9f-4356-89f5-cf75e7edbd2c" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/65bbbdc7-5c6f-4d83-964b-036337248d5b" /><img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/18332f0a-bf9f-4356-89f5-cf75e7edbd2c" />
 
